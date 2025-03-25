@@ -2,6 +2,77 @@
 
  Job Offers Analysis – Analyzed 5,000+ job postings using SQL, identifying key employment trends in France.
 
+# Dataset:
+
+[Job_Id]:
+A unique identifier for each job posting. This is typically an integer or bigint that uniquely distinguishes each job.
+
+[Experience]:
+The experience required for the job, often represented in terms like "3 to 5 years" or "5+ years."
+
+[Qualifications]:
+The educational or professional qualifications required for the job, such as a degree or certifications.
+
+[Salary_Range]:
+The salary offered for the job, usually given as a range (e.g., "$50,000 - $70,000" or "$60K-$80K").
+
+[Location]:
+The physical location of the job, which could be a city or specific area.
+
+[Country]:
+The country where the job is located (e.g., "USA," "France," "Germany").
+
+[latitude]:
+The latitude coordinate of the job location (usually used for geospatial analysis).
+
+[longitude]:
+The longitude coordinate of the job location, used in conjunction with latitude for geospatial data.
+
+[Work_Type]:
+The type of work arrangement offered, such as full-time, part-time, freelance, or remote.
+
+[Company_Size]:
+The size of the company posting the job (e.g., small, medium, large), typically categorized by the number of employees.
+
+[Job_Posting_Date]:
+The date when the job was posted, important for understanding the recency of the job offer.
+
+[Preference]:
+Any preferences or specific requirements for the job, such as desired skills, personality traits, or language proficiency.
+
+[Contact_Person]:
+The person to contact regarding the job posting (e.g., HR representative or recruiter).
+
+[Contact]:
+Contact information for the person listed in the previous column, such as an email or phone number.
+
+[Job_Title]:
+The title or designation of the job, such as "Software Engineer," "Project Manager," or "Data Analyst."
+
+[Role]:
+The role or responsibility associated with the job title, such as "Developer," "Manager," or "Analyst."
+
+[Job_Portal]:
+The platform or job portal where the job was posted (e.g., LinkedIn, Indeed, company website).
+
+[Job_Description]:
+A detailed description of the job responsibilities, tasks, and requirements.
+
+[Benefits]:
+The benefits associated with the job, such as health insurance, retirement plans, bonuses, or other perks.
+
+[Skills]:
+The skills required for the job, like programming languages, software tools, or interpersonal skills.
+
+[Responsibilities]:
+A breakdown of the main duties and tasks associated with the job.
+
+[Company]:
+The name of the company posting the job.
+
+[Company_Profile]:
+A description or profile of the company, outlining its values, work culture, and other company-specific information.
+
 # Analysis of the Code and Insights
 
 This project aimed at analyzing a dataset of job postings by cleaning the data, exploring key trends, and deriving meaningful insights based on the data. The dataset contains information on job positions, such as job titles, experience requirements, salary ranges, locations, and company details. Below is a detailed explanation of the steps taken and the insights derived from the analysis.
